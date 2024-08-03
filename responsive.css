@@ -1,0 +1,329 @@
+@media (min-width:680px){
+    .order__food__mobile{
+        display: none;
+    }
+}
+
+
+@media (max-width:1269px){
+    .foods{
+        width: 300px;
+    }
+    .food3 .score__menu__food{
+        margin-top: 5px;
+    }
+    .food3 .text__boxs p{
+        margin-top: 5px;
+    }
+    .food3 .buy__food{
+        margin-top: -1px;
+    }
+    .foods img{
+        margin-left: 16px;
+    }
+    .food6 img{
+        margin-left: 68px;
+    }
+}
+
+
+@media (max-width:1119px){
+    .foods{
+        width: 250px;
+    }
+    .food1 .buy__food{
+        margin-top: -1px;
+    }
+    .food4 .buy__food{
+        margin-top: -1px;
+    }
+    .foods img{
+        margin-left: 1px;
+        width: 216px;
+    }
+    .food6 img{
+        margin-left: 44px;
+        width: auto;
+    }
+}
+
+
+@media (max-width:1115px){
+    .left h1{
+        font-size: 43px;
+    }
+}
+
+
+@media (max-width:1069px){
+    .right img{
+        width: 550px;
+    }
+}
+
+
+@media (max-width:995px){
+    .right img{
+        width: 450px;
+    }
+}
+
+@media (max-width:970px){
+    .foods{
+        width: 350px;
+    }
+    .food3 .score__menu__food{
+        margin-top: 10px;
+    }
+    .food3 .text__boxs p{
+        margin-top: 10px;
+    }
+    .food3 .buy__food{
+        margin-top: 37px;
+    }
+    .foods img{
+        margin-left: 43px;
+    }
+    .food6 img{
+        margin-left: 98px;
+    }
+}
+
+@media (max-width:920px){
+    .foods{
+        width: 300px;
+    }
+    .food3 .score__menu__food{
+        margin-top: 5px;
+    }
+    .food3 .text__boxs p{
+        margin-top: 5px;
+    }
+    .food3 .buy__food{
+        margin-top: -1px;
+    }
+    .foods img{
+        margin-left: 16px;
+    }
+    .food6 img{
+        margin-left: 68px;
+    }
+}
+
+
+@media (max-width:834px){
+    .header__menu{
+        display: none;
+    }
+    .bergar__menu{
+        display: block;
+    }
+    .navigation{
+        display: flex;
+        justify-content: space-between;
+    }
+    .right img{
+        width: 370px;
+    }
+    .down__header{
+        margin-top: 50px;
+    }
+    .left h1{
+        font-size: 30px;
+        line-height: 35px
+    }
+    .button2{
+        width: 140px;
+        height: 51px;
+    }   
+    .button2 p{
+        font-size: 15px;
+        font-weight: 400px;
+    }
+}
+
+@media (max-width:820px){
+    .foods{
+        width: 250px;
+    }
+    .food1 .buy__food{
+        margin-top: -1px;
+    }
+    .food4 .buy__food{
+        margin-top: -1px;
+    }
+    .foods img{
+        margin-left: 1px;
+        width: 216px;
+    }
+    .food6 img{
+        margin-left: 44px;
+        width: auto;
+    }
+}
+
+
+@media (max-width:768px){
+    .right img{
+        width: 300px;
+    }
+    .left h1{
+        font-size: 25px;
+        line-height: 35px
+    }
+}
+
+/* 888888888888888888 */
+@media (max-width:719px){
+    .foods{
+        width: 200px;
+    }
+    .foods img{
+        margin-left: 16px;
+        width: 130px;
+        margin-top: 20px;
+    }
+    .foods .bg__img{
+        top: 55px;
+    }
+    .foods .text__boxs{
+        margin-top: 82px;
+    }
+    .food6 img{
+        margin-left: 23px;
+        width: auto;
+        margin-top: -2px;
+    }
+    .food6 .text__boxs{
+        margin-top: 34px;
+    }
+}
+
+@media (max-width:680px){
+    .down__header{
+        display: block;
+    }
+    .right img{
+        margin-left: 120px;
+        width: 446px;
+        margin-top: 25px;
+    }
+    .delivery{
+        margin-left: 30px;
+        margin-top: 26px;
+    }
+    .left h1{
+        font-size: 45px;
+        font-weight: 500;
+        margin-bottom: 5px;
+        text-align: center;
+        line-height: 50px;
+    }
+    .left p{
+        text-align: center;
+    }
+    .order__food__desktop{
+        display: none;
+    }
+    .button__header{
+        display: flex;
+        justify-content: center;
+    }
+    .order__food .button1{
+        width: 200px;
+        padding: 10px 18px 10px 18px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .order__food .button2{
+        width: 233px;
+        padding: 10px 18px 10px 18px;
+        display: flex;
+        gap: 10px;
+    }
+}
+
+
+@media (max-width:619px){
+    .foods{
+        width: 350px;
+    }
+    .food3 .score__menu__food{
+        margin-top: 10px;
+    }
+    .food3 .text__boxs p{
+        margin-top: 10px;
+    }
+    .foods .text__boxs{
+        margin-top: 0px;
+    }
+    .buy__food{
+        margin-top: 20px;
+    }
+    .food3 .buy__food{
+        margin-top: 37px;
+    }
+    .foods img{
+        width: auto;
+        margin-left: 43px;
+    }
+    .food6 img{
+        width: auto;
+        margin-left: 98px;
+    }
+}
+
+
+@media (max-width:573px){
+    .delivery{
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .right img{
+        width: 400px;
+        margin-left: 75px;
+    }
+}
+
+
+@media (max-width:480px){
+    .delivery{
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .delivery h3{
+        font-size: 14px;
+    }
+    .delivery p{
+        font-size: 12px;
+    }
+    .right img{
+        width: 320px;
+        margin-left: 75px;
+    }
+    .order__food .button1{
+        width: 130px;
+        padding: 8px 16px 8px 16px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .order__food .button2{
+        width: 160px;
+        padding: 8px 16px 8px 16px;
+        display: flex;
+        gap: 10px;
+    }
+}
+
+
+@media (max-width:400px){
+    .down__header{
+        display: block;
+    }
+    .delivery{
+        display: none;
+    }
+    .right img{
+        margin-left: 38px;
+    }
+}
